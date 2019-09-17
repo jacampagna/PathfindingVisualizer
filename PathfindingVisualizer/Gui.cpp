@@ -2,7 +2,7 @@
 #include <SFML\Window.hpp>
 #include <SFML\Graphics.hpp>
 #include "Gui.h"
-#include <iterator> 
+#include <iterator>
 #include <map> 
 #include <string>  
 
